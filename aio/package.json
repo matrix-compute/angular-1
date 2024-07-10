@@ -80,7 +80,7 @@
   },
   "devDependencies": {
     "@angular-devkit/architect-cli": "0.1702.0-rc.0",
-    "@angular-devkit/build-angular": "17.2.0-rc.0",
+    "@angular-devkit/build-angular": "18.1.0",
     "@angular-eslint/builder": "17.3.0",
     "@angular-eslint/eslint-plugin": "17.3.0",
     "@angular-eslint/eslint-plugin-template": "17.3.0",
