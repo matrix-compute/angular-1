@@ -47,7 +47,7 @@
   },
   "// 1": "dependencies are used locally and by bazel",
   "dependencies": {
-    "@angular-devkit/build-angular": "19.2.0-next.2",
+    "@angular-devkit/build-angular": "19.2.10",
     "@angular-devkit/core": "19.2.0-next.2",
     "@angular-devkit/schematics": "19.2.0-next.2",
     "@angular/build": "19.2.0-next.2",
@@ -226,7 +226,7 @@
     "tslint-eslint-rules": "5.4.0",
     "tslint-no-toplevel-property-access": "0.0.2",
     "typed-graphqlify": "^3.1.1",
-    "undici": "^6.15.0",
+    "undici": "^6.21.2",
     "vrsource-tslint-rules": "6.0.0"
   },
   "// 3": "Ensure that transitive dependencies on `https-proxy-agent` are at minimum v5 as older versions patch NodeJS directly, breaking tools like webdriver which is used by the karma-sauce-launcher as an example.",
