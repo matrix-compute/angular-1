@@ -214,7 +214,7 @@
     "marked": "^15.0.0",
     "mermaid": "^11.0.0",
     "patch-package": "^7.0.0",
-    "playwright-core": "^1.41.2",
+    "playwright-core": "^1.55.1",
     "preact": "^10.17.1",
     "preact-render-to-string": "^6.2.1",
     "prettier": "^3.0.0",
